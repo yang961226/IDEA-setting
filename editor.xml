@@ -12,6 +12,7 @@
       </kotlin.kotlin.lambdas.hints>
       <kotlin.kotlin.references.types.hints>
         <Settings>
+          <option name="localVariableType" value="true" />
           <option name="parameterType" value="true" />
           <option name="propertyType" value="true" />
         </Settings>

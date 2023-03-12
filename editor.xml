@@ -1,17 +1,24 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.kt;*.java" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="kotlin.kotlin.lambdas.hints.hints.lambda.receivers.parameters" />
     <settingsMapElement>
-      <kotlin.kotlin.lambdas.hints>
-        <Settings>
-          <option name="implicitReceiversAndParams" value="false" />
-        </Settings>
-      </kotlin.kotlin.lambdas.hints>
       <kotlin.kotlin.references.types.hints>
         <Settings>
+          <option name="functionReturnType" value="true" />
           <option name="localVariableType" value="true" />
           <option name="parameterType" value="true" />
           <option name="propertyType" value="true" />

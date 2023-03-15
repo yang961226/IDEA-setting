@@ -12,7 +12,19 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://hsing.wicp.net:10086" />
-          <option name="userName" value="yang961226" />
+          <option name="userName" value="maoting.yang" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hsing.wicp.net/kumai/singlite-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@hsing.wicp.net:kumai/singlite-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hsing.wicp.net:10086/kumai/singlite-android.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>

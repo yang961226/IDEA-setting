@@ -2,4 +2,15 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1679467174155" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="UI logic for navigating to a top level destination in the app. Top level destinations have only one copy of the destination of the back stack, and save and restore state whenever you navigate to and from it. @param topLevelDestination: The destination the app needs to navigate to." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>

@@ -4,12 +4,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="temp default nested scroll connection for swipeables which desire as an opt in revisit in b174756744 as all types will have their own specific connection probably" />
       <item value="UI logic for navigating to a top level destination in the app. Top level destinations have only one copy of the destination of the back stack, and save and restore state whenever you navigate to and from it. @param topLevelDestination: The destination the app needs to navigate to." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>

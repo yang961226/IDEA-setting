@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="We expect it to always be non-null but we will leave the alternative as a no-op just in case." />
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection. Do not use for collections that come from public APIs, since they may not support random access in an efficient way, and this method may actually be a lot slower. Only use for collections that are created by code we control and are known to support random access." />
       <item value="Do not use for collections that come from public APIs, since they may not support random access in an efficient way, and this method may actually be a lot slower. Only use for collections that are created by code we control and are known to support random access." />
       <item value="ote: Once the exit transition is finished, the content composable will be removed from the tree, and disposed. If there's a need to observe the state change of the enterexit transition and follow up additional action (e.g. remove data, sequential animation, etc), consider the AnimatedVisibility API variant that takes a MutableTransitionState parameter." />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>

@@ -8,9 +8,11 @@
         <option value="package:mine level:debug tag:生命周期监听" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug tag:临时测试-value" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug tag:临时测试:maxValue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug tag:临时测试:maxValue" />
+        <option value="package:mine level:debug tag:临时测试:value" />
         <option value="package:mine level:debug tag:临时测试-value" />
         <option value="package:mine level:debug tag:临时测试-maxValue" />
         <option value="package:mine level:debug tag:临时测试-2" />

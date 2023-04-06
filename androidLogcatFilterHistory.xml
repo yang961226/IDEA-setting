@@ -11,13 +11,13 @@
     <option name="mostRecentlyUsed" value="package:mine level:debug tag:临时测试" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:debug tag:临时测试:maxValue" />
         <option value="package:mine level:debug tag:临时测试:value" />
         <option value="package:mine level:debug tag:临时测试-value" />
         <option value="package:mine level:debug tag:临时测试-maxValue" />
         <option value="package:mine level:debug tag:临时测试-2" />
         <option value="package:mine level:debug tag:临时测试-1" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>

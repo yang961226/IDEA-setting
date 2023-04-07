@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Flag indicating whether this is a translucent window." />
       <item value="Semantics" />
       <item value="Rounds this Float value to the nearest integer and converts the result to Int. Ties are rounded towards positive infinity." />
       <item value="We expect it to always be non-null but we will leave the alternative as a no-op just in case." />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>

@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine level:debug tag:网络请求日志" />
         <option value="package:mine level:error " />
         <option value="package:mine level:debug tag:生命周期监听" />
-        <option value="package:mine level:debug tag:网络请求日志" />
         <option value="package:mine level:debug tag:临时测试" />
       </list>
     </option>

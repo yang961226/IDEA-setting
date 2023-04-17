@@ -1,9 +1,10 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681263515470" />
+    <option name="lastTrimTime" value="1681696595578" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Feed" />
       <item value="playback State" />
       <item value="Flag indicating whether this is a translucent window." />
       <item value="Semantics" />
@@ -17,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>

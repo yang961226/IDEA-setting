@@ -8,9 +8,10 @@
         <option value="package:mine level:debug tag:网络请求日志" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp " />
         <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="package:mine level:debug tag:HaloResponse" />

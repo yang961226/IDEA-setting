@@ -12,6 +12,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-b0e9027a0511-FiWz9F._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi 21121119SC" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>

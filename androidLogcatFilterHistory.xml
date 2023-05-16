@@ -3,16 +3,16 @@
     <option name="favorites">
       <list>
         <option value="package:mine level:debug tag:临时测试" />
+        <option value="package:mine level:debug tag:网络请求日志" />
         <option value="package:mine level:debug tag:生命周期监听" />
         <option value="package:mine level:error " />
-        <option value="package:mine level:debug tag:网络请求日志" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:debug tag:临时测试" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine okhttp " />
         <option value="package:mine level:debug okhttp" />
+        <option value="package:mine okhttp " />
         <option value="package:mine level:debug tag:网络请求日志 {&quot;response_status&quot;:" />
         <option value="package:mine level:debug tag:网络请求日志 getMy" />
         <option value="package:mine level:debug " />
